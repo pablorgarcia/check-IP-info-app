@@ -1,0 +1,28 @@
+{
+  "name": "Check IP info app",
+  "version": "1.0.0",
+  "description": "Query with an IP number and returns the supplier info, what country is it from, if it is a threat, time zone and more",
+  "main": "main.js",
+  "author": "Pablo Garcia<pablo.garcia.dev@gmail.com>",
+  "license": "GNU-2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablorgarcia/check-IP-info-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pablorgarcia/check-IP-info-app/issues"
+  },
+  "homepage": "https://github.com/pablorgarcia/check-IP-info-app/blob/master/README.md",
+  "keywords": [
+    "IP",
+    "API",
+    "javascript",
+    "vanilla-javascript",
+    "vanila-js",
+    "vanilajs",
+    "js",
+    "html5",
+    "css3",
+    "GNU-2"
+  ]
+}
